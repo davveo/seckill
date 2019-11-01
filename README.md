@@ -1,0 +1,2 @@
+# seckill
+A seckill project.
